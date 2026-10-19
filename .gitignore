@@ -1,0 +1,21 @@
+
+# Secret API keys
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local environment files
+.env.*
+!.env.example
+
